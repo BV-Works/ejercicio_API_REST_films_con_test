@@ -1,7 +1,7 @@
 {
   "name": "ejercicio_api_rest_films",
-  "version": "1.0.0",
-  "description": "Ejercicio_API_REST_Films",
+  "version": "1.1.0",
+  "description": "Ejercicio_API_REST_Films_BV-Works",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JavierEspinosaP/Ejercicio_API_REST_Express_Films.git"
+    "url": "git+https://github.com/BV-Works/ejercicio_API_REST_films_con_test.git"
   },
-  "author": "Javier Espinosa",
+  "author": "BV-Works",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JavierEspinosaP/Ejercicio_API_REST_Express_Films/issues"
-  },
-  "homepage": "https://github.com/JavierEspinosaP/Ejercicio_API_REST_Express_Films#readme",
+  "homepage": "https://github.com/BV-Works/ejercicio_API_REST_films_con_test?tab=readme-ov-file#ejercicio-api-rest-films",
   "devDependencies": {
     "jest": "^29.7.0",
     "jest-stare": "^2.5.1",
