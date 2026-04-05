@@ -26,7 +26,7 @@
     "unmatched": 0,
     "updated": 0
   },
-  "startTime": 1775413582720,
+  "startTime": 1775413876207,
   "success": false,
   "testResults": [
     {
@@ -37,10 +37,10 @@
       "numTodoTests": 0,
       "openHandles": [],
       "perfStats": {
-        "end": 1775413583639,
-        "runtime": 878,
+        "end": 1775413878599,
+        "runtime": 2065,
         "slow": false,
-        "start": 1775413582761
+        "start": 1775413876534
       },
       "skipped": false,
       "snapshot": {
@@ -58,7 +58,7 @@
           "ancestorTitles": [
             "Films API routes"
           ],
-          "duration": 243,
+          "duration": 214,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "Films API routes should fetch a movie by title",
@@ -73,7 +73,7 @@
           "ancestorTitles": [
             "Films API routes"
           ],
-          "duration": 151,
+          "duration": 146,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "Films API routes should return 404 for a non-existent movie",
@@ -88,7 +88,7 @@
           "ancestorTitles": [
             "Films API routes"
           ],
-          "duration": 9,
+          "duration": 56,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "Films API routes should add a new movie",
@@ -103,7 +103,7 @@
           "ancestorTitles": [
             "Films API routes"
           ],
-          "duration": 2,
+          "duration": 3,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "Films API routes should update an existing movie",
@@ -140,10 +140,10 @@
       "numTodoTests": 0,
       "openHandles": [],
       "perfStats": {
-        "end": 1775413583983,
-        "runtime": 322,
+        "end": 1775413878954,
+        "runtime": 330,
         "slow": false,
-        "start": 1775413583661
+        "start": 1775413878624
       },
       "skipped": false,
       "snapshot": {
@@ -161,7 +161,7 @@
           "ancestorTitles": [
             "fetchFilm utility"
           ],
-          "duration": 149,
+          "duration": 148,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "fetchFilm utility should return movie details for a known movie",
@@ -176,7 +176,7 @@
           "ancestorTitles": [
             "fetchFilm utility"
           ],
-          "duration": 148,
+          "duration": 142,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "fetchFilm utility should return null for a non-existent movie",
@@ -198,10 +198,10 @@
       "numTodoTests": 0,
       "openHandles": [],
       "perfStats": {
-        "end": 1775413584026,
-        "runtime": 31,
+        "end": 1775413879003,
+        "runtime": 35,
         "slow": false,
-        "start": 1775413583995
+        "start": 1775413878968
       },
       "skipped": false,
       "snapshot": {
@@ -234,7 +234,7 @@
           "ancestorTitles": [
             "Environment setup"
           ],
-          "duration": 2,
+          "duration": 4,
           "failureDetails": [],
           "failureMessages": [],
           "fullName": "Environment setup should have API_KEY defined in the .env file",
